@@ -1,6 +1,5 @@
 - 👋  Hi, I’m @snobjorn
 - 👀  I’m interested in web development
-- 🌱  I’m currently learning JavaScript
 - 💞️  I’m looking to collaborate on ProcessWire projects
 - 📫  Reach me at [Snøbjørn](https://www.snobjorn.no/om/)
 
