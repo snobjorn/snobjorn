@@ -1,7 +1,9 @@
-- 👋  Hi, I’m @snobjorn
+- 👋  Hi, I’m Asbjørn
 - 👀  I’m interested in web development
 - 💞️  I’m looking to collaborate on ProcessWire projects
-- 📫  Reach me at [Asbjørn Ness Web](https://www.asbjornness.no/)
+- 📝  Read my blog at [Hashnode](https://asbjornness.hashnode.dev/)
+- 📫  Reach me at [asbjornness.no](https://www.asbjornness.no/)
+- 🏆  See my skills at [LinkedIn](https://www.linkedin.com/in/asbjornness/)
 
 <!---
 snobjorn/snobjorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
