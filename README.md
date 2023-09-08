@@ -2,7 +2,8 @@
 - 👀  I’m interested in web development
 - 💞️  I’m looking to collaborate on ProcessWire projects
 - 📝  Read my blog at [Hashnode](https://asbjornness.hashnode.dev/)
-- 📫  Reach me at [asbjornness.no](https://www.asbjornness.no/)
+- 🌟  Browse my services at [GitHub Pages](https://snobjorn.github.io/)
+- 📫  Contact me at [Gmail](mailto:asbjorn.ness+ghc@gmail.com)
 - 🏆  See my skills at [LinkedIn](https://www.linkedin.com/in/asbjornness/)
 
 <!---
