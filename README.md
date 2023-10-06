@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asbjørn
 - 👀 I’m interested in web development
 - ⭐️ I'm available for hire
-- 💞️ I’m looking to collaborate on ProcessWire projects
+- 💞️ I’m looking to collaborate on projects using either ProcessWire, Tailwind or React
 - 📝 Read my blog at [Hashnode](https://asbjorn.hashnode.dev/)
 - 🌟 Browse my services at [GitHub Pages](https://snobjorn.github.io/)
 - 📫 Contact me at [Gmail](mailto:asbjorn.ness+ghc@gmail.com)
