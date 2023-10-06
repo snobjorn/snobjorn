@@ -7,11 +7,11 @@
 
 ## Projects
 
-- **[vid.no](https://www.vid.no/)**: ProcessWire, UIkit, PHP, HTML, CSS, MySQL
-- **[baerumevents.no](https://www.baerumevents.no/)**: Tailwind, GitHub Pages, HTML, CSS
-- **[filmdagbok.no](https://filmdagbok.no/)**: Processwire, Tailwind, PHP, HTML, CSS, MySQL
-- **[postpensjonistene.no](https://www.postpensjonistene.no/)**: ProcessWire, UIkit, PHP, HTML, CSS, MySQL
-- usePopcorn (coming)**: React, API
+- **[vid.no](https://www.vid.no/)**: Complete website and design. <font size="1">PHP, HTML, CSS, MySQL</font>
+- **[baerumevents.no](https://www.baerumevents.no/)**: Complete website with design collaborator. HTML, CSS
+- **[filmdagbok.no](https://filmdagbok.no/)**: Complete website and design. PHP, HTML, CSS, MySQL, API
+- **[postpensjonistene.no](https://www.postpensjonistene.no/)**: Complete website and design. PHP, HTML, CSS, MySQL
+- **usePopcorn (coming)**: React, API
 - **[Classy Weather](https://classy-weather-snobjorn.netlify.app/)**: React, API
 - **[The React Quiz](https://react-quiz-snobjorn.netlify.app/)**: React
 
