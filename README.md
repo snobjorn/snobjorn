@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects using either ProcessWire, Tailwind or React
 - 📝 Read my blog at [Hashnode](https://asbjorn.hashnode.dev/)
 - 🌟 Browse my services at [GitHub Pages](https://snobjorn.github.io/)
-- 📫 Contact me at [Gmail](mailto:asbjorn.ness+ghc@gmail.com)
-- 🏆 See my skills at [LinkedIn](https://www.linkedin.com/in/asbjornness/)
 
 <!---
 snobjorn/snobjorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
