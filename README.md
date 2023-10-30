@@ -1,19 +1,18 @@
 - 👋 Hi, I’m Asbjørn
 - 👀 I’m interested in web development
 - ⭐️ I'm available for hire
-- 💞️ I’m looking to collaborate on projects using either ProcessWire, Tailwind or React
+- 💞️ I’m looking to collaborate on projects using either React, Tailwind or ProcessWire
 - 📝 Read my blog at [Hashnode](https://asbjorn.hashnode.dev/)
-- 🌟 Browse my services at [GitHub Pages](https://snobjorn.github.io/)
+- 🌟 Browse my services at [GitHub Pages](https://www.asbjornness.no/)
 
 ## Projects
 
-- **[vid.no](https://www.vid.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
+- **[filmdagbok.no](https://filmdagbok.no/)**: Complete website and design. (React, Sanity, API)
 - **[baerumevents.no](https://www.baerumevents.no/)**: Complete website with design collaborator. (HTML, CSS)
-- **[filmdagbok.no](https://filmdagbok.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL, API)
+- **[vid.no](https://www.vid.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
 - **[postpensjonistene.no](https://www.postpensjonistene.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
-- **usePopcorn (coming)**: (React, API)
-- **[Classy Weather](https://classy-weather-snobjorn.netlify.app/)**: (React, API)
-- **[The React Quiz](https://react-quiz-snobjorn.netlify.app/)**: (React)
+- **[Classy Weather](https://weather.asbjornness.no/)**: (React, API)
+- **[The React Quiz](https://quiz.asbjornness.no/)**: (React)
 
 <!---
 snobjorn/snobjorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
