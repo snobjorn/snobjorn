@@ -3,7 +3,7 @@
 - ⭐️ I'm available for hire
 - 💞️ I’m looking to collaborate on projects using either React, Tailwind or ProcessWire
 - 📝 Read my blog at [Hashnode](https://asbjorn.hashnode.dev/)
-- 🌟 Browse my services at [GitHub Pages](https://www.asbjornness.no/)
+- 🌟 Browse my services at [www.asbjornness.no](https://www.asbjornness.no/)
 
 ## Projects
 
