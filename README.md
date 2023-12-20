@@ -11,8 +11,6 @@
 - **[baerumevents.no](https://www.baerumevents.no/)**: Complete website with design collaborator. (HTML, CSS)
 - **[vid.no](https://www.vid.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
 - **[postpensjonistene.no](https://www.postpensjonistene.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
-- **[Classy Weather](https://weather.asbjornness.no/)**: (React, API)
-- **[The React Quiz](https://quiz.asbjornness.no/)**: (React)
 
 <!---
 snobjorn/snobjorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
