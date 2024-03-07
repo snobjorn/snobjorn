@@ -8,7 +8,6 @@
 ## Projects
 
 - **[filmdagbok.no](https://filmdagbok.no/)**: Complete website and design. (React, Sanity, API)
-- **[baerumevents.no](https://www.baerumevents.no/)**: Complete website with design collaborator. (HTML, CSS)
 - **[vid.no](https://www.vid.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
 - **[postpensjonistene.no](https://www.postpensjonistene.no/)**: Complete website and design. (PHP, HTML, CSS, MySQL)
 
