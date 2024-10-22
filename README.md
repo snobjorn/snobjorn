@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asbjørn
 - 👀 I’m interested in web development
 - ⭐️ I'm available for hire
-- 💞️ I’m looking to collaborate on projects using either React, Tailwind or ProcessWire
+- 💞️ I’m looking to collaborate on projects using React
 - 🌟 Browse my services at [www.asbjornness.no](https://www.asbjornness.no/)
 
 <!---
